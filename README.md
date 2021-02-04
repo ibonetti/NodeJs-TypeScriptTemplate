@@ -1,2 +1,2 @@
 # NodeJs-TypeScriptTemplate
-A template for NodeJS-Typescript projects
+A basic template for NodeJS-Typescript projects
